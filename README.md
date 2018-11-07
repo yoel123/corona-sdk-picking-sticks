@@ -17,3 +17,5 @@ there is an apk for testing on mobile.
 
 if you need to contact me use this link:
 https://ytutor.wordpress.com/contact/
+
+![gif 1](https://github.com/yoel123/corona-sdk-picking-sticks/blob/master/picking.gif?raw=true)
